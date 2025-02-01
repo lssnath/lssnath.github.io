@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<head>
+    <style>
+      body {
+        background-image: url('https://images.tcdn.com.br/img/img_prod/898929/tecido_tricoline_liso_cor_rosa_chiclete_50cm_x_1_50mt_3043_1_8739a7f846693d56c466c016f369d731.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+      }
+      </style>
+</head>
+
+<font color='white'>Aqui nesse site vou falar um pouco sobre  algumas coisas que eu gosto ❤</font>
