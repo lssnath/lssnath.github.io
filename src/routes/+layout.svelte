@@ -26,10 +26,4 @@
     </div>
 </nav>
 
-<style>
-    .navbar {
-        background-color: #ff69b4 !important;
-    }
-</style>
-
 {@render children()}
