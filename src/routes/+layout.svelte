@@ -16,7 +16,7 @@
                     <a class="nav-link" href="/Maquiagem">Maquiagem</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Filmes">Fdddilmes</a>
+                    <a class="nav-link" href="/Filmes">Filmes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/Animes">Animes</a>
