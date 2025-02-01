@@ -2,10 +2,10 @@
     let { children } = $props();
 </script>
 
-<nav class="navbar navbar-expand-sm navbar-dark bg-danger">
+<nav class="navbar navbar-expand-sm" style="background-color: #ff69b4;">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/#">
-            Oiee :)
+        <a class="navbar-brand" href="/#"><h1>
+            Oiee :) </h1>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -16,7 +16,7 @@
                     <a class="nav-link" href="/Maquiagem">Maquiagem</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/Filmes">Filmes</a>
+                    <a class="nav-link" href="/Filmes">Fdddilmes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/Animes">Animes</a>
@@ -25,11 +25,5 @@
         </div>
     </div>
 </nav>
-
-<style>
-    .navbar {
-        background-color: #ff69b4 !important;
-    }
-</style>
 
 {@render children()}
